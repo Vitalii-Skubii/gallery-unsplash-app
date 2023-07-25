@@ -1,0 +1,11 @@
+.tag__wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+
+.tag__controls {
+  display: flex;
+  padding: 20px;
+  justify-content: end;
+}

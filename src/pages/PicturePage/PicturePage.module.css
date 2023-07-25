@@ -1,0 +1,23 @@
+.tags {
+  margin-top: 10px;
+}
+
+.tag {
+  display: inline-block;
+  background: #eeeeee;
+  color: #767676;
+  padding: 4px 8px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.picture__page {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  height: auto;
+  max-width: 100%;
+}

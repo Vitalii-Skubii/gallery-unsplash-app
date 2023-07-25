@@ -1,0 +1,18 @@
+.controls {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.search__wrapper {
+  display: flex;
+  height: 100%;
+  width: 50%;
+}
+
+.no__results {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+}
